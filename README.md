@@ -52,4 +52,4 @@ The for loop is to store the number that will be visible in the pagination page 
 
 **It is important as the number is kept dynamic by creating it in this way. So 10 items per page and 100 items will generate 10 virtual pages/ paginated pages but the number will become 20 if we have 200 items.**
 
-#### The consept can be grabbed even better if we look at the code as there are many comments which are making sure that everything can be understood.
+## The consept can be grabbed even better if we look at the code as there are many comments which are making sure that everything can be understood.
